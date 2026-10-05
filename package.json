@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-app",
+  "version": "1.0.0",
+  "main": "sahil.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "gtts": "^0.2.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
